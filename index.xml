@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Effortless</title>
+    <link>https://www.effortless.hu/</link>
+    <description>Recent content on Effortless</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Dec 2024 12:07:25 +0100</lastBuildDate>
+    <atom:link href="https://www.effortless.hu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terms &amp; Conditions</title>
+      <link>https://www.effortless.hu/terms/</link>
+      <pubDate>Wed, 11 Dec 2024 12:07:25 +0100</pubDate>
+      <guid>https://www.effortless.hu/terms/</guid>
+      <description>&lt;h2 id=&#34;1-general&#34; class=&#34;relative group&#34;&gt;1. General &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-general&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;These Terms &amp;amp; Conditions (&amp;ldquo;Terms&amp;rdquo;) govern your purchase, subscription, and use of the products and services (&amp;ldquo;Services&amp;rdquo;) provided by Effortless (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;). By purchasing or using our Services, you agree to these Terms. If you do not agree to these Terms, do not purchase or use the Services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://www.effortless.hu/contact/</link>
+      <pubDate>Wed, 27 Nov 2024 20:52:14 +0100</pubDate>
+      <guid>https://www.effortless.hu/contact/</guid>
+      <description>&lt;form&#xA;  action=&#34;https://formspree.io/f/xnnqygpj&#34;&#xA;  method=&#34;POST&#34;&#xA;&gt;&#xA;  &lt;label&gt;&#xA;    Your email:&#xA;    &lt;input type=&#34;email&#34; name=&#34;email&#34; /&gt;&#xA;  &lt;/label&gt;&#xA;&#xA;  &lt;label&gt;&#xA;    Your message:&#xA;    &lt;textarea name=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;  &lt;/label&gt;&#xA;&#xA;  &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;&#xA;&lt;/form&gt;&#xA;&#xA;&lt;style&gt;&#xA;    form {&#xA;        max-width: 400px;&#xA;        margin: 50px auto;&#xA;        padding: 20px;&#xA;        border: 1px solid #ddd;&#xA;        border-radius: 8px;&#xA;        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);&#xA;      }&#xA;      &#xA;       &#xA;      label {&#xA;        display: block;&#xA;        margin-bottom: 15px;&#xA;        font-weight: bold;&#xA;      }&#xA;      &#xA;       &#xA;      input[type=&#34;email&#34;],&#xA;      textarea {&#xA;        width: 100%;&#xA;        padding: 10px;&#xA;        margin-top: 5px;&#xA;        border: 1px solid #ccc;&#xA;        border-radius: 4px;&#xA;        box-sizing: border-box;&#xA;        font-size: 14px;&#xA;        color: #0E172A;&#xA;      }&#xA;      &#xA;       &#xA;      input[type=&#34;email&#34;]:focus,&#xA;      textarea:focus {&#xA;        border-color: #007BFF;&#xA;        outline: none;&#xA;        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);&#xA;      }&#xA;      &#xA;       &#xA;      textarea {&#xA;        resize: vertical;&#xA;        min-height: 300px;&#xA;      }&#xA;      &#xA;       &#xA;      button[type=&#34;submit&#34;] {&#xA;        display: inline-block;&#xA;        width: 100%;&#xA;        padding: 10px;&#xA;        background-color: #2576BA;&#xA;        color: #fff;&#xA;        border: none;&#xA;        border-radius: 4px;&#xA;        font-size: 16px;&#xA;        font-weight: bold;&#xA;        cursor: pointer;&#xA;        text-align: center;&#xA;        transition: background-color 0.3s;&#xA;      }&#xA;      &#xA;      button:hover[type=&#34;submit&#34;] {&#xA;        background-color: #0056b3;&#xA;      }&#xA;      &#xA;       &#xA;      @media (max-width: 480px) {&#xA;        form {&#xA;          padding: 15px;&#xA;        }&#xA;        button {&#xA;          font-size: 14px;&#xA;        }&#xA;      }&#xA;  &lt;/style&gt;</description>
+    </item>
+    <item>
+      <title>EULA</title>
+      <link>https://www.effortless.hu/eula/</link>
+      <pubDate>Sun, 24 Nov 2024 20:23:22 +0100</pubDate>
+      <guid>https://www.effortless.hu/eula/</guid>
+      <description>&lt;h1 id=&#34;end-user-license-agreement&#34; class=&#34;relative group&#34;&gt;End-User License Agreement &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#end-user-license-agreement&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;IMPORTANT: PLEASE READ THIS END-USER LICENSE AGREEMENT (&amp;ldquo;AGREEMENT&amp;rdquo;) CAREFULLY&#xA;BEFORE INSTALLING OR USING THE SOFTWARE. BY INSTALLING, COPYING, OR USING THE&#xA;SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE&#xA;TO THE TERMS OF THIS AGREEMENT, DO NOT INSTALL, COPY, OR USE THE SOFTWARE.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://www.effortless.hu/privacy/</link>
+      <pubDate>Sun, 24 Nov 2024 20:23:15 +0100</pubDate>
+      <guid>https://www.effortless.hu/privacy/</guid>
+      <description>&lt;p&gt;Effortless (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;our,&amp;rdquo; &amp;ldquo;us&amp;rdquo;) operates the website &lt;a href=&#34;https://www.effortless.hu&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.effortless.hu&lt;/a&gt;, and offers web services, desktop applications, and mobile applications that may interact with cloud services such as Google Cloud. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our services and products. By accessing or using our services, you agree to the collection and use of information in accordance with this Privacy Policy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Favorite Views</title>
+      <link>https://www.effortless.hu/revit-addins/views/favorite-views/</link>
+      <pubDate>Sun, 24 Nov 2024 17:49:54 +0100</pubDate>
+      <guid>https://www.effortless.hu/revit-addins/views/favorite-views/</guid>
+      <description>Mark your favorite views so you can access them at any time.</description>
+    </item>
+    <item>
+      <title>View Tracker</title>
+      <link>https://www.effortless.hu/revit-addins/views/view-tracker/</link>
+      <pubDate>Sun, 24 Nov 2024 17:49:54 +0100</pubDate>
+      <guid>https://www.effortless.hu/revit-addins/views/view-tracker/</guid>
+      <description>Keep track of all you recently open views.</description>
+    </item>
+  </channel>
+</rss>
